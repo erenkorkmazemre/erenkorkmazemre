@@ -5,7 +5,7 @@
 
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenkorkmazemre&layout=compact&hide=html,css" alt="Top Languages" />
-  <img  src="https://github-readme-stats.vercel.app/api?username=erenkorkmazemre&show_icons=true&rank_icon=github&count_private=true&hide=contribs,issues" alt="erenkorkmazemre's github stats" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=erenkorkmazemre&hide_rank=false&show_icons=true&rank_icon=github&count_private=true&hide=contribs,issues" alt="erenkorkmazemre's github stats" />
 </p>
 
 

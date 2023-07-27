@@ -1,13 +1,7 @@
 ### Hey there 👋
-I'm Eren Emre Korkmaz
+##I'm Eren Emre Korkmaz
 Software Development Engineer in Test & Family man
-I bring 4 years of experience in software testing and quality assurance, specializing in finance, hospital, market domains. Throughout my career, I have developed a comprehensive understanding of the software development life cycle, testing methodologies, and industry best practices. I have a proven track record of effectively planning and executing test strategies, conducting thorough test case design, and ensuring the delivery of high-quality software products.
 
-Conducting tests for API-based services using the Rest Assured library. Adhering to industry-standard methodologies for test automation in continuous integration and delivery (CI/CD) environments. Analyzing and sharing test results using Jenkins and TestNG reports.
-
-Writing e2e and regression tests using Playwright (TS) for the FE and Jest (TS) for the backend (this is a new system we recently transitioned to on a project basis), and I actively participated in shaping the architecture. Setting up a staging environment from scratch for test data management purposes and managing automated test processes for web-based applications using the Java programming language and Selenium.
-
-I have professional work experience in backend and frontend development. On the backend side, I have worked with Java and Spring Boot, handling tasks such as API development and database management using MongoDB and PostgreSQL. On the frontend side, I have utilized JavaScript and React JS to design user-friendly interfaces and enhance user experience. With a well-rounded skill set encompassing test automation, backend, and frontend development, I am a collaborative team player with strong problem-solving skills.
 
 ## 📌 GitHub Stats And Top Languages
 

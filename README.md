@@ -1,6 +1,6 @@
 ### Hey there 👋
 ## I'm Eren Emre Korkmaz
-Software Development Engineer in Test & Family man
+Software Engineer & Family man
 
 
 

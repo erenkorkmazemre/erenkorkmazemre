@@ -1,8 +1,21 @@
-### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erenkorkmazemre)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
+### Hey there 👋
 
-[![Eren's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=erenkorkmazemre&show_icons=true&hide_rank=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Eren's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=erenkorkmazemre&show_icons=true&hide_rank=true&theme=radical#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+## 📌 GitHub Stats And Top Languages
+
+<p float="center">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenkorkmazemre&layout=compact&hide=html,css" alt="My Top Langs" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=erenkorkmazemre&show_icons=false&count_private=true&hide=contribs,issues" alt="erenkorkmazemre's github stats" />
+</p>
+
+
+## 🌐 Personal Website
+https://erenemrekorkmaz.com/
+
+## 📫 How to Reach Me
+
+[![Linkedin Badge](https://img.shields.io/badge/erenemrekorkmaz-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/erenemrekorkmaz/)
+
 
 <!--
 **erenkorkmazemre/erenkorkmazemre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

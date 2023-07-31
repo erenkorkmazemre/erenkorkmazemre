@@ -7,7 +7,7 @@ Software Engineer & Family man
 ## 📌 GitHub Stats And Top Languages
 
 <p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenkorkmazemre&theme=radical&layout=compact&hide=html,css" alt="Top Languages" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenkorkmazemre&theme=shadow_red&card_width=600px&layout=compact&hide=html,css" alt="Top Languages" />
   <!-- <img  src="https://github-readme-stats.vercel.app/api?username=erenkorkmazemre&hide_rank=false&show_icons=true&theme=radical&custom_title=Stats&rank_icon=github&count_private=true&hide=contribs,issues" alt="erenkorkmazemre's github stats" /> -->
 </p>
 

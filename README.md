@@ -77,6 +77,12 @@
   <img src="https://github-contribution-stats.vercel.app/api/?username=erenkorkmazemre&theme=tokyonight" alt="Contribution Stats" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erenkorkmazemre&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
+</div>
+
 ---
 
 ## 🌐 Connect With Me

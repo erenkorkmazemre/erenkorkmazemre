@@ -67,24 +67,6 @@
 
 </div>
 
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erenkorkmazemre&theme=tokyonight&hide_border=true&background=0D1117" alt="Contribution Streak" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=erenkorkmazemre&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erenkorkmazemre&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
-
-</div>
-
 ---
 
 ## 🌐 Connect With Me
@@ -99,19 +81,7 @@
 
 ---
 
-## 💭 Quote of the Day
-
 <div align="center">
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-</div>
-
----
-
-<div align="center">
-
-  ### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 

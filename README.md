@@ -4,28 +4,13 @@
 
 <div align="center">
 
-  ### 👨‍💻 Software Engineer | 👨‍👩‍👧‍👦 Family Man | 🚀 Problem Solver
+  ### 👨‍💻 Software Engineer | 🚀 Problem Solver
 
   <p>
     <em>Building scalable solutions and writing clean code</em>
   </p>
 
 </div>
-
----
-
-## 🎯 About Me
-
-```typescript
-const eren = {
-    role: "Software Engineer",
-    location: "🌍",
-    interests: ["Clean Code", "Software Architecture", "Problem Solving"],
-    lifePhilosophy: "Family first, code second",
-    currentFocus: "Building robust and scalable applications",
-    funFact: "I debug my code and my kids' homework with equal enthusiasm"
-};
-```
 
 ---
 
@@ -109,10 +94,6 @@ const eren = {
   [![Website](https://img.shields.io/badge/Website-erenemrekorkmaz.com-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://erenemrekorkmaz.com/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eren_Emre_Korkmaz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erenemrekorkmaz/)
   [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@erenemrekorkmaz.com)
-
-  <br/>
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=erenkorkmazemre&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 

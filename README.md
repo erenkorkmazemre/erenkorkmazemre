@@ -67,6 +67,24 @@
 
 </div>
 
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erenkorkmazemre&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=erenkorkmazemre&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erenkorkmazemre&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
+
+</div>
+
 ---
 
 ## 🌐 Connect With Me
@@ -75,7 +93,7 @@
 
   [![Website](https://img.shields.io/badge/Website-erenemrekorkmaz.com-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://erenemrekorkmaz.com/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eren_Emre_Korkmaz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erenemrekorkmaz/)
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@erenemrekorkmaz.com)
+  [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erenkorkmazemre@gmail.com)
 
 </div>
 

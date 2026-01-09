@@ -61,25 +61,6 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=erenkorkmazemre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=erenkorkmazemre&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=html,css"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=erenkorkmazemre&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=erenkorkmazemre&theme=tokyonight" alt="Contribution Stats" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=erenkorkmazemre&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
 </div>
 
